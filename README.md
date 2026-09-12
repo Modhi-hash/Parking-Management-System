@@ -21,6 +21,7 @@ A desktop application built using **Java Swing**, **MySQL**, and **Maven**. This
 <img width="2097" height="1685" alt="SY3" src="https://github.com/user-attachments/assets/3ceb30e1-41d8-4499-a5a3-55257732f2d9" />
 <img width="2097" height="1735" alt="SY4" src="https://github.com/user-attachments/assets/c9416b10-5050-4930-b310-cb4c5107f799" />
 <img width="1972" height="1385" alt="SY5" src="https://github.com/user-attachments/assets/895a9189-4d00-415d-b4ce-9f468bc71cc5" />
+<img width="2222" height="1612" alt="SY6" src="https://github.com/user-attachments/assets/1a670751-8cf2-4d19-9171-f6c889bd470e" />
 
 ---
 
