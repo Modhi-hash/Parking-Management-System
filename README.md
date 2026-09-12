@@ -14,6 +14,17 @@ A desktop application built using **Java Swing**, **MySQL**, and **Maven**. This
 
 ---
 
+## 📸 Screenshots
+
+![Uploading SY6.png…]()
+<img width="1972" height="1385" alt="SY5" src="https://github.com/user-attachments/assets/895a9189-4d00-415d-b4ce-9f468bc71cc5" />
+<img width="2097" height="1735" alt="SY4" src="https://github.com/user-attachments/assets/c9416b10-5050-4930-b310-cb4c5107f799" />
+<img width="2097" height="1685" alt="SY3" src="https://github.com/user-attachments/assets/3ceb30e1-41d8-4499-a5a3-55257732f2d9" />
+<img width="1972" height="1285" alt="SY2" src="https://github.com/user-attachments/assets/5c74a833-0e8a-4dcd-beb7-4d6e67704ec1" />
+<img width="1972" height="1285" alt="SY1" src="https://github.com/user-attachments/assets/75a8a893-88c2-4ad5-9c64-a8d93e773ae9" />
+
+---
+
 ## 🛠️ Tech Stack & Prerequisites
 
 * **Language:** Java (JDK 17 or higher recommended)
