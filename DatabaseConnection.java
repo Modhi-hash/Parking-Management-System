@@ -13,7 +13,7 @@ public class DatabaseConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/parking_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "1234"; 
+    private static final String PASSWORD = "0000"; 
 
     private static Connection connection = null;
 
